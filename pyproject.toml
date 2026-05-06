@@ -1,0 +1,10 @@
+[project]
+name = "ium-projekt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gdown>=6.0.0",
+    "zstandard>=0.25.0",
+]
